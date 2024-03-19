@@ -3,4 +3,4 @@ app = Flask(__name__)
 
 @app.route("/")
 def hello():
-    return "SUBDOMAIN TAKEOVER!"
+    return "SUBDOMAIN TAKEOVER POC!"
